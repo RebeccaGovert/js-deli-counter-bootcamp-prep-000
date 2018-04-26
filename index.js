@@ -1,5 +1,5 @@
 var katzDeli = [];
-
+//lines 3 through 8 done on interview.
 var number = 1;
 
 function takeANumber (katzDeliLine) {
@@ -7,7 +7,7 @@ function takeANumber (katzDeliLine) {
    number++;
 }
 
-
+//all lines below this and line 1 were my original assignment.
 
 
 function takeANumber (katzDeliLine, newPersonName) {
