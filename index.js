@@ -1,5 +1,12 @@
 var katzDeli = [];
 
+function takeANumber (katzDeliLine) {
+  for ()
+}
+
+
+
+
 function takeANumber (katzDeliLine, newPersonName) {
   katzDeliLine.push(newPersonName);
   
@@ -28,3 +35,4 @@ function currentLine (katzDeliLine) {
   }
   return myOutputLine;
 }
+
