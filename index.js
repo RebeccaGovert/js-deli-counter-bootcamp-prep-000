@@ -1,5 +1,7 @@
 var katzDeli = [];
 
+
+
 function takeANumber (katzDeliLine) {
    var number = 1;
    katzDeliLine.push(number);
